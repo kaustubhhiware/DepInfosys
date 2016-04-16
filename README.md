@@ -1,7 +1,7 @@
 # University_Department_information_System
 Project for CS29006 Software Lab
 
-Collaborator - @kingofools
+Collaborator - Surya Midatala @ https://github.com/kingofools
 #SA SD UML 
 Completed on  27 Mar 2016
 

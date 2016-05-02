@@ -1,13 +1,6 @@
-# University_Department_information_System
+#DepInfosys
 Project for CS29006 Software Lab
 
 Collaborator - Surya Midatala @ [kingofools](https://github.com/kingofools)
-#SA SD UML 
-Completed on  27 Mar 2016
 
-#Development 
-Software implementation - Completed on 9 Apr 2016
-
-#Testing - Current
-completed on 13 Apr 2016
-
+This project satisfies the need for a University Department Information System,  where the Department Secretary is responsible for handling the academics,  maintaining  cash logs,  and should be able to support querying for transactions. 

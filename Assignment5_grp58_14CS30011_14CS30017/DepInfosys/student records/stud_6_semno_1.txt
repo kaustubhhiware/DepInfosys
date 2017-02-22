@@ -1,0 +1,14 @@
+Student Name: Second_yr_fourth sem
+Roll number : 6
+Phone number : 1234
+Email Address : s@gmail.com
+Address : NH
+----------------------------------------------------
+
+
+Sem no: 1 	 SGPA: - 	 CGPA: 0.0
+Subject: Electrical	Grade: -1	Status: current
+Subject: Chemistry	Grade: -1	Status: current
+Subject: ET Lab	Grade: -1	Status: current
+Subject: English	Grade: -1	Status: current
+Subject: Math-2	Grade: -1	Status: current

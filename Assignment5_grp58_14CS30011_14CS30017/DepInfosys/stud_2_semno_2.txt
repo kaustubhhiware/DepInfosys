@@ -1,0 +1,14 @@
+Student Name: you
+Roll number : 2
+Phone number : 3
+Email Address : 3
+Address : 33
+Current CGPA: 8.31
+----------------------------------------------------
+
+
+Sem no: 1	SGPA: 8.31	CGPA: 8.31
+Subject: math	Grade: 9	Status: clear
+Subject: phy	Grade: 8	Status: clear
+Subject: pds	Grade: 7	Status: clear
+Subject: ed	Grade: 9	Status: clear

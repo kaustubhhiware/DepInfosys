@@ -1,0 +1,15 @@
+Student Name: Firstyr_first sem
+Roll number : 3
+Phone number : 1234
+Email Address : asd@gmail.com
+Address : LBS
+Current CGPA: 8.11
+----------------------------------------------------
+
+
+Sem no: 1	SGPA: 8.11	CGPA: 8.11
+Subject: PDS	Grade: 8	Status: clear
+Subject: Math-1	Grade: 8	Status: clear
+Subject: PDS Lab	Grade: 7	Status: clear
+Subject: Mechanics	Grade: 8	Status: clear
+Subject: Physics	Grade: 9	Status: clear

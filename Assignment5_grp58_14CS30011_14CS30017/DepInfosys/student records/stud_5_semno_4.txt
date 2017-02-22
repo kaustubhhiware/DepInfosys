@@ -1,0 +1,36 @@
+Student Name: Second_yr_third_sem
+Roll number : 5
+Phone number : 1234
+Email Address : asd@gmail.com
+Address : AZ
+Current CGPA: 8.59
+----------------------------------------------------
+
+
+Sem no: 1	SGPA: 8.33	CGPA: 8.33
+Subject: Math-1	Grade: 7	Status: clear
+Subject: Mechanics	Grade: 8	Status: clear
+Subject: Physics	Grade: 8	Status: clear
+Subject: PDS	Grade: 10	Status: clear
+Subject: PDS Lab	Grade: 9	Status: clear
+----------------------------------------------------
+
+
+Sem no: 2	SGPA: 9.0	CGPA: 8.66
+Subject: Chemistry	Grade: 8	Status: clear
+Subject: Electrical	Grade: 9	Status: clear
+Subject: ET Lab	Grade: 9	Status: clear
+Subject: English	Grade: 10	Status: clear
+Subject: Math-2	Grade: 9	Status: clear
+----------------------------------------------------
+
+
+Sem no: 3	SGPA: 8.48	CGPA: 8.59
+Subject: Algo	Grade: 8	Status: clear
+Subject: Discrete Structures	Grade: 8	Status: clear
+Subject: Algo - 1 Lab	Grade: 7	Status: clear
+Subject: Signals and Networks	Grade: 10	Status: clear
+Subject: EC	Grade: 8	Status: clear
+Subject: Signals lab	Grade: 8	Status: clear
+Subject: EC Lab	Grade: 8	Status: clear
+Subject: Breadth -1	Grade: 10	Status: clear

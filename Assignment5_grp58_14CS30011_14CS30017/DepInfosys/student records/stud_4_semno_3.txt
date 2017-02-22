@@ -1,0 +1,25 @@
+Student Name: faccha_secondsem
+Roll number : 4
+Phone number : 1234
+Email Address : k@gmail.com
+Address : LBS
+Current CGPA: 8.0
+----------------------------------------------------
+
+
+Sem no: 1	SGPA: 8.44	CGPA: 8.44
+Subject: Chemistry	Grade: 8	Status: clear
+Subject: Electrical	Grade: 8	Status: clear
+Subject: ET Lab	Grade: 8	Status: clear
+Subject: English	Grade: 9	Status: clear
+Subject: Math-2	Grade: 9	Status: clear
+----------------------------------------------------
+
+
+Sem no: 2	SGPA: 7.56	CGPA: 8.0
+Subject: PDS Lab	Grade: 8	Status: clear
+Subject: PDS	Grade: 9	Status: clear
+Subject: Math-1	Grade: 9	Status: clear
+Subject: Mechanics	Grade: 4	Status: backlog
+Subject: Physics	Grade: 8	Status: clear
+----------------------------------------------------
